@@ -1,0 +1,92 @@
+[
+  {
+      "id": 1,
+      "name": "EU-NORD-1",
+      "is_available": false,
+      "country": {
+          "name": "Afghanistan",
+          "iso_a2": "AF"
+      }
+  },
+  {
+      "id": 2,
+      "name": "EU-WEST-2",
+      "is_available": true,
+      "country": {
+          "name": "Belgium",
+          "iso_a2": "BE"
+      }
+  },
+  {
+      "id": 3,
+      "name": "EU-CENTRAL-3",
+      "is_available": false,
+      "country": {
+          "name": "Canada",
+          "iso_a2": "CA"
+      }
+  },
+  {
+      "id": 4,
+      "name": "EU-SOUTH-4",
+      "is_available": true,
+      "country": {
+          "name": "Denmark",
+          "iso_a2": "DK"
+      }
+  },
+  {
+      "id": 5,
+      "name": "EU-EAST-5",
+      "is_available": false,
+      "country": {
+          "name": "Egypt",
+          "iso_a2": "EG"
+      }
+  },
+  {
+      "id": 6,
+      "name": "EU-WEST-6",
+      "is_available": true,
+      "country": {
+          "name": "France",
+          "iso_a2": "FR"
+      }
+  },
+  {
+      "id": 7,
+      "name": "EU-NORD-7",
+      "is_available": false,
+      "country": {
+          "name": "Germany",
+          "iso_a2": "DE"
+      }
+  },
+  {
+      "id": 8,
+      "name": "EU-SOUTH-8",
+      "is_available": true,
+      "country": {
+          "name": "Greece",
+          "iso_a2": "GR"
+      }
+  },
+  {
+      "id": 9,
+      "name": "EU-CENTRAL-9",
+      "is_available": false,
+      "country": {
+          "name": "Hungary",
+          "iso_a2": "HU"
+      }
+  },
+  {
+      "id": 10,
+      "name": "EU-WEST-10",
+      "is_available": true,
+      "country": {
+          "name": "Ireland",
+          "iso_a2": "IE"
+      }
+  }
+]
